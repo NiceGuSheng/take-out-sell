@@ -1,4 +1,4 @@
-# vue-app2_black
+# vue
 
 > A Vue.js project
 
@@ -17,5 +17,5 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-# project puge
+## Project preview
 https://nicegusheng.github.io/take-out-sell/dist
